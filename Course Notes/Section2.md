@@ -1,6 +1,6 @@
 # Section 2 - Building a Walking Skeleton Part One - API
 
-## Creating the .Net API Project Using the DotNet CLI
+# Creating the .Net API Project Using the DotNet CLI
 - install dotnet 5 SDK
 - `dotnet new sln`
     - creates the sln file in the containing folder with the folder's name
@@ -10,7 +10,7 @@
 - `dotnet sln add API/`
     - adds the project to the solution
 
-## Setting up VS Code to Work With C#
+# Setting up VS Code to Work With C#
 Install the following extensions:
 
 1. C# for Visual Studio Code (powered by OmniSharp)
@@ -25,7 +25,7 @@ Turned on the following VS Code settings
 
 `Ctrl + Shift + P` shows all commands (has a search bar at the top) on windows.
 
-## Getting to Know the API Project Files
+# Getting to Know the API Project Files
 `dotnet run`:
 
 - builds + runs the project locally
